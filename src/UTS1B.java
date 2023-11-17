@@ -35,5 +35,4 @@ public class UTS1B {
 
         input.close();
     }
-
 }
